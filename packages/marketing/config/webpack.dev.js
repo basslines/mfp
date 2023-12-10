@@ -28,3 +28,4 @@ const devConfig = {
 };
 
 module.exports = merge(commonConfig, devConfig);
+
